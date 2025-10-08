@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@types/mongoose": "^5.11.96",
+    "@types/node": "^22.13.13"
+  }
+}
